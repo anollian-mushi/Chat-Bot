@@ -1,14 +1,4 @@
-<a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Repo Size][size-shield]][size-url]
-[![Last Commit][commit-shield]][commit-url]
-
-<br />
 
 <!-- PROJECT LOGO / TITLE -->
 <div align="center">
@@ -26,6 +16,21 @@
     <a href="https://github.com/anollian-mushi/Chat-Bot/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+
+<a id="readme-top"></a>
+
+<!-- PROJECT SHIELDS -->
+<div align="center">
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Repo Size][size-shield]][size-url]
+[![Last Commit][commit-shield]][commit-url]
+
+</div>
+<br />
 
 ---
 
