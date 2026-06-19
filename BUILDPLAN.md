@@ -36,13 +36,13 @@ Development itself runs in **6 sprints** (12 weeks), with Testing & Deployment i
 ---
 
 ### Sprint 1 — Core Backend & Bot Foundation (Weeks 1–2)
-**Goal:** Telegram bot connects and responds. Dashboard skeleton is live.
+**Goal:** Telegram bot connects and answers basic questions via AI. Web dashboard skeleton is live.
 
 **Backend Tasks:**
-- [ ] Initialize FastAPI project structure
+- [ ] Initialize FastAPI project structure and PostgreSQL setup.
 - [ ] Set up PostgreSQL with Alembic migrations
-- [ ] Implement Telegram bot connection (`python-telegram-bot`)
-- [ ] Create `/start`, `/help`, and basic echo commands
+- [ ] Implement Telegram bot connection (`python-telegram-bot`) Create `/start`, `/help`, and basic echo commands 
+- [ ] Integrate AI API (OpenAI/fallback) to handle incoming user questions.
 - [ ] Implement user/chat model and database persistence
 - [ ] Set up Docker Compose (backend + db)
 
